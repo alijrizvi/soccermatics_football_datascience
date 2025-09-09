@@ -2,10 +2,11 @@
 
 
 ## Background & Overview of Work
-It was not too long ago (7-8 months?) that I read Dr. Sumpter's amazing work combining his (our) passion for football with his (our) field of Data Science/Mathematical modeling. Since then, I was inspired by his work to incorporate such tools in my own Data Science toolkit as well as have fun with them in our beautiful game. 
+It was not too long ago (7-8 months?) that I read Dr. Sumpter's amazing work, his book "Soccermatics", combining his (our) passion for football with his (our) field of Data Science/Mathematical modeling. Since then, I was inspired by his work to incorporate such tools in my own Data Science toolkit as well as have fun with them in our beautiful game. 
 
 So, here is a collection of data collection, organization, analysis, visualization, and predictive modeling done for football matches - all was inspired by Dr. David Sumpter's and his colleagues'/guests' teachings through his YouTube channel "Friends of Tracking": https://www.youtube.com/@friendsoftracking755
 #### Main Credit/Source for the Data: https://github.com/statsbomb/open-data
+#### GitHub for Dr. Sumpter's main work for this project: https://github.com/Friends-of-Tracking-Data-FoTD/SoccermaticsForPython
 
 ### The Notebooks/Codebooks & Techniques Applied and Practiced
 There are numerous Python codebooks for this project, spanning data scraping, loading-in, and analysis to predictive modeling for the future through Poisson Distribution models, etc. Some higher-level mathematical and data science/machine learning techniques were also practiced on the data, such as Polynomial Regression.
